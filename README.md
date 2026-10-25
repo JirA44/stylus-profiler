@@ -1,3 +1,13 @@
+## Français
+
+Analyseur de binaires WASM pour contrats Arbitrum Stylus, avec coûts de gas par fonction, taille et pistes d’optimisation. Exemple : analyser un binaire compilé pour repérer les fonctions les plus coûteuses.
+
+## English
+
+A WASM binary analyzer for Arbitrum Stylus contracts, with per-function gas costs, size breakdowns, and optimization hints. Example: analyze a compiled binary to find costly functions.
+
+---
+
 # stylus-profiler
 [![repo](https://img.shields.io/badge/repo-stylus-profiler-blue)](https://github.com/kcolbchain/stylus-profiler)
 
